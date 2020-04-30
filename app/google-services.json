@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451647575780",
+    "firebase_url": "https://my-first-login-app-2d867.firebaseio.com",
+    "project_id": "my-first-login-app-2d867",
+    "storage_bucket": "my-first-login-app-2d867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451647575780:android:05b49eb3d61118006d7ef1",
+        "android_client_info": {
+          "package_name": "com.brianraph.myfirstloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451647575780-sthm7r9et6q560jttm54qe23kii1k8nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brianraph.myfirstloginapp",
+            "certificate_hash": "97f041df501bf2888d547eee00dff5198bf8b94a"
+          }
+        },
+        {
+          "client_id": "451647575780-6q1kcgl1p2m4ekp44bhn18070t1nimam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCPlZ0dg_hEHp_f12CTVprwMlqW-C8XVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451647575780-6q1kcgl1p2m4ekp44bhn18070t1nimam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
